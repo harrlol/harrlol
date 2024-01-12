@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harrlol
+- 👋 Hi, I’m Harry Li
 - 👀 I’m interested in computational biology, bioinformatics, and systems biology
 - 🌱 I’m currently working at the Gregory Lab at University of Pennsylvania
 - 📫 How to reach me email lidatou0708@gmail.com
